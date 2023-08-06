@@ -17,10 +17,16 @@ This weather forecast app is a web application, that displays the current weathe
 - Wind Speed Icon: Used to display the current wind speed of a specific location.
 - Search: To get climate information about a place.
 ### Home/Landing Page
-![image](https://github.com/Kaleabgw/_weather_app/assets/139714674/eb9b39b5-1159-4e34-b595-f26d326cb599)
+![image](https://github.com/Kaleabgw/_weather_app/assets/139714674/def8354f-2b01-4146-83bb-6dbabd645675)
+
 ### Search
 ![image](https://github.com/Kaleabgw/_weather_app/assets/139714674/2259975a-c53e-4315-aec9-97564ef745cd)
+
 ### Weather Icons
 ![image](https://github.com/Kaleabgw/_weather_app/assets/139714674/3223996a-0dff-404c-b6ef-5c555542e622)
+
 ### Invalid Geographical Location results in an error in the system
 ![image](https://github.com/Kaleabgw/_weather_app/assets/139714674/a07c8178-d965-41d6-8c87-64e2c5b25037)
+
+## Deployment 
+
