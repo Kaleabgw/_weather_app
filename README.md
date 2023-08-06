@@ -29,4 +29,4 @@ This weather forecast app is a web application, that displays the current weathe
 ![image](https://github.com/Kaleabgw/_weather_app/assets/139714674/a07c8178-d965-41d6-8c87-64e2c5b25037)
 
 ## Deployment 
-
+To access the deployed project, simply refer to this site -> https://weather-app-kgw.netlify.app
