@@ -15,7 +15,7 @@ This weather forecast app is a web application, that displays the current weathe
 - Weather Icons: Utilized to represent different weather conditions, making the information understandable.
 - Humidity Icon: Used to represent the humidity of the geographical area.
 - Wind Speed Icon: Used to display the current wind speed of a specific location.
-- Search: To get climate information about a place.
+- Search: To get any climate information about a place.
 ### Home/Landing Page
 ![image](https://github.com/Kaleabgw/_weather_app/assets/139714674/def8354f-2b01-4146-83bb-6dbabd645675)
 
